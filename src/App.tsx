@@ -3,6 +3,7 @@ import Hero from "./components/Hero/Hero";
 import About from "./components/About/About";
 import "./App.css";
 import Services from "./components/Services/Services";
+import Listing from "./components/Listing/Listing";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Hero />
           <About />
           <Services />
+          <Listing />
         </article>
       </main>
     </>
