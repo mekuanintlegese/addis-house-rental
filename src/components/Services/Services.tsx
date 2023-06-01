@@ -1,4 +1,7 @@
 import { ArrowNarrowRight } from "tabler-icons-react";
+import bgImg1 from "../../assets/images/service-1.png";
+import bgImg2 from "../../assets/images/service-2.png";
+import bgImg3 from "../../assets/images/service-3.png";
 
 const Services = () => {
   return (
@@ -13,7 +16,7 @@ const Services = () => {
             <li>
               <div className="service-card">
                 <div className="card-icon">
-                  <img src="./assets/images/service-1.png" alt="Service icon" />
+                  <img src={bgImg1} alt="Service icon" />
                 </div>
 
                 <h3 className="h3 card-title">
@@ -36,7 +39,7 @@ const Services = () => {
             <li>
               <div className="service-card">
                 <div className="card-icon">
-                  <img src="./assets/images/service-2.png" alt="Service icon" />
+                  <img src={bgImg2} alt="Service icon" />
                 </div>
 
                 <h3 className="h3 card-title">
@@ -59,7 +62,7 @@ const Services = () => {
             <li>
               <div className="service-card">
                 <div className="card-icon">
-                  <img src="./assets/images/service-3.png" alt="Service icon" />
+                  <img src={bgImg3} alt="Service icon" />
                 </div>
 
                 <h3 className="h3 card-title">
