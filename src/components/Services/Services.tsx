@@ -24,8 +24,9 @@ const Services = () => {
                 </h3>
 
                 <p className="card-text">
-                  over 1 million+ homes for sale available on the website, we
-                  can match you with a house you will want to call home.
+                  We have over 1 million+ homes for sale available on the
+                  website, we can match you with a house you will want to call
+                  home.
                 </p>
 
                 <a href="#" className="card-link">
@@ -47,8 +48,9 @@ const Services = () => {
                 </h3>
 
                 <p className="card-text">
-                  over 1 million+ homes for sale available on the website, we
-                  can match you with a house you will want to call home.
+                  We have over 1 million+ homes for rent available on the
+                  website, we can match you with a house you will want to call
+                  home.
                 </p>
 
                 <a href="#" className="card-link">
@@ -70,8 +72,9 @@ const Services = () => {
                 </h3>
 
                 <p className="card-text">
-                  over 1 million+ homes for sale available on the website, we
-                  can match you with a house you will want to call home.
+                  We can help you sell your home quickly and for the best
+                  possible price. We have a team of experienced real estate
+                  agents.
                 </p>
 
                 <a href="#" className="card-link">
