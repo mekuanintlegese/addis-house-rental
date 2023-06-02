@@ -65,7 +65,7 @@ const Listing = () => {
                   </div>
 
                   <h3 className="h3 card-title">
-                    <a href="#">New Apartment Nice View</a>
+                    <a href="#">New Apartment Nice Views</a>
                   </h3>
 
                   <p className="card-text">
