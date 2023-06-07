@@ -2,8 +2,10 @@ import {
   Mail,
   MapPin,
   Phone,
-  ShoppingCart,
-  MoodSmile,
+  BrandFacebook,
+  BrandTwitter,
+  BrandLinkedin,
+  BrandYoutube,
 } from "tabler-icons-react";
 import logo from "../../assets/images/logoo.png";
 
@@ -55,25 +57,25 @@ const Footer = () => {
               <ul className="social-list">
                 <li>
                   <a href="#" className="social-link">
-                    <ion-icon name="logo-facebook"></ion-icon>
+                    <BrandFacebook size={22} strokeWidth={1} color={"white"} />
                   </a>
                 </li>
 
                 <li>
                   <a href="#" className="social-link">
-                    <ion-icon name="logo-twitter"></ion-icon>
+                    <BrandTwitter size={22} strokeWidth={1} color={"white"} />
                   </a>
                 </li>
 
                 <li>
                   <a href="#" className="social-link">
-                    <ion-icon name="logo-linkedin"></ion-icon>
+                    <BrandLinkedin size={22} strokeWidth={2} color={"white"} />
                   </a>
                 </li>
 
                 <li>
                   <a href="#" className="social-link">
-                    <ion-icon name="logo-youtube"></ion-icon>
+                    <BrandYoutube size={22} strokeWidth={1} color={"white"} />
                   </a>
                 </li>
               </ul>

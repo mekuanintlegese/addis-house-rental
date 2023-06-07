@@ -1745,3 +1745,8 @@ a {
   padding: 10px;
   border-radius: 20px 10px;
 }
+.nav_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

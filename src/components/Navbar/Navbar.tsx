@@ -115,13 +115,16 @@ const Navbar = () => {
             </nav>
 
             <div className="header-bottom-actions">
-              <button className="header-bottom-actions-btn" aria-label="Search">
+              <button
+                className="header-bottom-actions-btn nav_button"
+                aria-label="Search"
+              >
                 <Search size={22} strokeWidth={1} color={"black"} />
                 <span>Search</span>
               </button>
 
               <button
-                className="header-bottom-actions-btn"
+                className="header-bottom-actions-btn nav_button"
                 aria-label="Profile"
               >
                 <MoodSmile size={26} strokeWidth={1} color={"black"} />
@@ -129,13 +132,16 @@ const Navbar = () => {
                 <span>Profile</span>
               </button>
 
-              <button className="header-bottom-actions-btn" aria-label="Cart">
+              <button
+                className="header-bottom-actions-btn nav_button"
+                aria-label="Cart"
+              >
                 <ShoppingCart size={26} strokeWidth={1} color={"black"} />
                 <span>Cart</span>
               </button>
 
               <button
-                className="header-bottom-actions-btn"
+                className="header-bottom-actions-btn nav_button"
                 data-nav-open-btn
                 aria-label="Open Menu"
               >
