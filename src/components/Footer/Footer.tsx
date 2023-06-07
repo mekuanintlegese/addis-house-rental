@@ -38,7 +38,7 @@ const Footer = () => {
                   <a href="tel:+0123456789" className="contact-link">
                     <Phone size={22} strokeWidth={1} color={"red"} />
 
-                    <span>+0123-456789</span>
+                    <span>+251-932-488734</span>
                   </a>
                 </li>
 
