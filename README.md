@@ -4,6 +4,11 @@
 
 Bet Kiray is a house rental system built using Vite(React). It is a simple landing page that allows users to search for houses to rent. The system is currently in development, but it is already functional at some point.
 
+### Demo Screeshots
+
+![Bet Kiray Demo](./ReadMeImage/kirayBetDemo1.png "Home Page")
+![Bet Kiray Demo](./ReadMeImage/kirayBetDemo1.png "About Page")
+
 # Features
 
 - Users can search for houses by location, price, and number of bedrooms.
