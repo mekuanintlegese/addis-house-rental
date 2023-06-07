@@ -5,6 +5,7 @@ import "./App.css";
 import Services from "./components/Services/Services";
 import Listing from "./components/Listing/Listing";
 import Explore from "./components/Explore/Explore";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Explore />
         </article>
       </main>
+      <Footer />
     </>
   );
 }
