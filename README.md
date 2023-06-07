@@ -6,7 +6,7 @@ Bet Kiray is a house rental system built using Vite(React). It is a simple landi
 
 ### Demo Screeshots
 
-![Bet Kiray Demo](./ReadMeImage/kirayBetDemo1.png "Hero Section of the Page")
+![Bet Kiray Demo](./ReadMeImage/kirayBetDemo2.png "Hero Section of the Page")
 ![Bet Kiray Demo](./ReadMeImage/kirayBetDemo1.png "Properties Section of the Page")
 
 # Features
